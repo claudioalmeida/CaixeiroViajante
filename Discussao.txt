@@ -1,0 +1,13 @@
+Observações para discussão
+===========
+
+1) Sempre que o indíviduo fizer um crossover, ele fez uma mutação logo antes. Isso pode ser bom (se a mutação o houver melhorado), ou ruim (se o houver piorado).
+
+2,3,0
+1616
+
+3,2,0
+1616
+
+1,0,2,3
+
